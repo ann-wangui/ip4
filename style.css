@@ -1,0 +1,33 @@
+body{
+    background-image: url("pizza bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .ann{
+    margin-left: 80%;
+    font-weight: 300;
+    text-decoration: none;
+}
+.wangui{
+    margin-left: 80%;
+    font-weight: 500;
+    text-decoration: none;
+}ul li{
+    text-decoration: none;
+    margin-left: 80%;
+    font-weight: 500;
+} */
+.ann{
+    margin-left: 50%;
+    font-weight: 1000;
+    text-decoration: none;
+}
+.wangui{
+    margin-left: 50%;
+    font-weight: 1000;
+    text-decoration: none;
+}
+.whatweoffer{
+    width: 200px;
+
+}
