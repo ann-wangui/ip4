@@ -1,7 +1,7 @@
 body{
     background-image: url("pizza bg.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: aqua;
 }
 /* .ann{
@@ -31,6 +31,11 @@ body{
 .whatweoffer{
     width: 200px;
 }
-.classtwo{
-    align-items: center;
+.display-1{
+    font-size: x-large;
 }
+
+
+
+    
+
