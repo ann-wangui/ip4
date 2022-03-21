@@ -6,6 +6,7 @@ body{
     background-attachment: fixed;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
+
 }
 /* .ann{
     margin-left: 80%;
@@ -22,12 +23,12 @@ body{
     font-weight: 500;
 } */
 .ann{
-    margin-left: 50%;
+    margin-left: 80%;
     font-weight: 1000;
     text-decoration: none;
 }
 .wangui{
-    margin-left: 50%;
+    margin-left: 80%;
     font-weight: 1000;
     text-decoration: none;
 }
