@@ -2,7 +2,7 @@ body{
     background-image: url("pizza bg.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color:gold;
+    background-color:gray;
     background-attachment: fixed;
 }
 /* .ann{
