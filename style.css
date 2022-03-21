@@ -2,6 +2,7 @@ body{
     background-image: url("pizza bg.png");
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: aqua;
 }
 /* .ann{
     margin-left: 80%;
