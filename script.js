@@ -37,12 +37,6 @@ $(document).ready(function() {
       $(".whatweoffer p.one").toggle();
     });
   
-    $("table").hide();
-    $(".additional-buttons").hide();
-    $(".additional-info").hide();
-    $(".btn.yes").hide();
-    $(".btn.no").hide();
-    $(".additional-info h4").hide();
   
     $('.btn.order').click(function() {
       var sizeOfPizza = $(".size option:selected").val();
@@ -52,9 +46,6 @@ $(document).ready(function() {
       var order = 1;
       var grandTotal = 0;
   
-      $("table").show();
-      $(".additional-buttons").show();
-      $(".btn.order").hide();
   
       $("#size").html($(".size option:selected").text() + " - " + sizeOfPizza);
       $("#toppings").html($(".toppings option:selected").text() + " - " + toppingsOfPizza);
@@ -86,7 +77,7 @@ $(document).ready(function() {
         $("#pizza").append(newRow);
       });
   
-      $(".btn.check-out").click(function() {
+      $(".btn.Generate").click(function() {
         $(".btn.add-pizza").hide();
         $(".btn.check-out").hide();
         $(".additional-info").show();

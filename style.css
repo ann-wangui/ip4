@@ -39,6 +39,11 @@ body{
 .display-1{
     font-size: x-large;
 }
+.header{
+    text-align: justify;
+    text-size-adjust:1000px ;
+    margin-top: auto;
+}
 
 
 
