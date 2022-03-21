@@ -4,6 +4,7 @@ body{
     background-size: cover;
     background-color:aqua;
     background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 /* .ann{
     margin-left: 80%;
