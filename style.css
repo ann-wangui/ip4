@@ -30,7 +30,8 @@ body{
 .wangui{
     margin-left: 80%;
     font-weight: 1000;
-    text-decoration: none;
+    text-emphasis: none;
+    text-transform: lowercase;
 }
 .whatweoffer{
     width: 200px;
