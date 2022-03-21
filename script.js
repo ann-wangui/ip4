@@ -103,7 +103,7 @@ $(document).ready(function() {
         $(".btn.yes").hide();
         $(".btn.no").hide();
         $(".additional-info .location").show();
-        $(".additional-info h3 span").html(grandTotal + 200);
+        $(".additional-info h3 span").html(grandTotal + 300);
       });
   
       $(".btn.no").click(function() {
